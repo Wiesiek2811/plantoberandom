@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+html {
+  background-image: url("img/camp.jpg");
+  height:100%;
+  margin:0;
+  padding:0;
+  position:relative;
+  background-size:cover;
+  overflow:auto;
+    }
+
+h1 {
+  text-align: center;
+  font-size: 90px;
+  padding-top: 20px;
+  font-family: 'Amatic SC', cursive;
+  color: white;
+text-shadow: -1px 0 #000000,0 5px #000000,5px 0 #000000,0 -1px #000000;
+}
+
+p {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  text-shadow: -1px 0 #000000,0 2px #000000,2px 0 #000000,0 -1px #000000;
+}
+#mc_embed_signup{
+text-align: center;
+font-family: 'Amatic SC', cursive;
+font-size: 50px;
+color: white;
+text-shadow: -1px 0 #000000,0 2px #000000,2px 0 #000000,0 -1px #000000;
+}
+
+form {
+  text-align: center;
+}
+
+body {
+   margin: 0px;
+   padding: 0px;
+   overflow: hidden;
+}
