@@ -22,20 +22,18 @@ h1 {
 text-shadow: -1px 0 #000000,0 5px #000000,5px 0 #000000,0 -1px #000000;
 }
 
+.clear {
+  padding-top: 25px;
+}
+
 #para {
   text-align: center;
-  font-size: 55px;
+  font-size: 48px;
   font-family: 'Amatic SC', cursive;
   color: white;
   text-shadow: -1px 0 #000000,0 2px #000000,2px 0 #000000,0 -1px #000000;
 }
-#mc_embed_signup{
-text-align: center;
-font-family: 'Amatic SC', cursive;
-font-size: 50px;
-color: white;
-text-shadow: -1px 0 #000000,0 2px #000000,2px 0 #000000,0 -1px #000000;
-}
+
 
 #label {
   text-align: center;
