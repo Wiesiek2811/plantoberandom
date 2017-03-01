@@ -33,7 +33,23 @@ text-shadow: -1px 0 #000000,0 5px #000000,5px 0 #000000,0 -1px #000000;
   color: white;
   text-shadow: -1px 0 #000000,0 2px #000000,2px 0 #000000,0 -1px #000000;
 }
+.email {
+  background-color: black;
+  width: 500px;
+  height: 40px;
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  text-align: center;
+}
 
+#butt {
+  font-size: 15px;
+  color: white;
+  padding: 14px 30px;
+  background-color: black;
+  font-family: 'Amatic SC', cursive;
+}
 
 #label {
   text-align: center;
