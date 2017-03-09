@@ -1,10 +1,8 @@
 
-@import url('https://fonts.googleapis.com/css?family=Poiret+One');
 @import "compass/css3";
-
-
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Architects+Daughter|Chelsea+Market');
 html {
-  background-image: url("img/camp.jpg");
+  background-image: url("img/action2.jpg");
   height:100%;
   margin:0;
   padding:0;
@@ -13,13 +11,22 @@ html {
   overflow:auto;
     }
 
+
+
 h1 {
+
+  color: black;
+font-family: 'Architects Daughter', cursive;
+  font-size: 125px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 1;
   text-align: center;
-  font-size: 80px;
-  padding-top: 40px;
-font-family: 'Poiret One', cursive;
+  }
+
+.rand {
   color: white;
-text-shadow: -1px 0 #000000,0 5px #000000,5px 0 #000000,0 -1px #000000;
+
 }
 
 .clear {
@@ -27,40 +34,49 @@ text-shadow: -1px 0 #000000,0 5px #000000,5px 0 #000000,0 -1px #000000;
 }
 
 #para {
+  color: black;
+font-family: 'Architects Daughter', cursive;
+  font-size: 55px;
+  letter-spacing: -1px;
+  line-height: 1;
   text-align: center;
-  font-size: 38px;
-  font-family: 'Poiret One', cursive;
-  color: white;
-  text-shadow: -1px 0 #3346FF,0 2px #000000,2px 0 #3346FF,0 -1px #3346FF;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  padding-top: 30px;
+
 }
 .email {
   background-color: black;
   width: 500px;
   height: 30px;
   color: white;
-font-family: 'Poiret One', cursive;
+font-family: 'Architects Daughter', cursive;
   font-size: 25px;
   text-align: center;
 }
 
 #butt {
-  font-size: 10px;
+  font-size: 30px;
   color: white;
   padding: 5px 20px;
   background-color: black;
-  font-family: 'Poiret One', cursive;
+font-family: 'Architects Daughter', cursive;
 }
 
 #label {
-  text-align: center;
-  font-size:30px;
-font-family: 'Poiret One', cursive;
   color: white;
-  text-shadow: -1px 0 #000000,0 2px #000000,2px 0 #000000,0 -1px #000000;
+font-family: 'Architects Daughter', cursive;
+  font-size: 35px;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center;
 }
 
 form {
   text-align: center;
+}
+
+.pad {
+  padding-top: 50px;
 }
 
 body {
